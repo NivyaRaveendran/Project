@@ -1,0 +1,52 @@
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: tan;
+    border-radius: 5px;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    text-shadow:#ccc;
+    font-weight: bolder;
+    margin-bottom: 20px;
+  }
+  
+  
+  .form-control {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+ 
+  #category {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+
+  .btn-primary {
+    display:grid;
+    width: 25%;
+    padding: 10px;
+    font-weight: 500;
+    background-color:rgb(18, 12, 46);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  #expenseList {
+    margin-top: 20px;
+    padding: 0;
+    list-style-type: none;
+  }
